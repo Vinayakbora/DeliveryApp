@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeliveryPartner</string>
+    <string name="logo">Logo</string>
+    <string name="active">Active</string>
+    <string name="new_orders">New Orders</string>
+    <string name="completed_orders">Completed Orders</string>
+    <string name="collections">Collections</string>
+    <string name="settings">Settings</string>
+</resources>
